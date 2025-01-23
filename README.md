@@ -14,7 +14,7 @@
 <h3 align="center"> 📊 My GitHub Stats 📊 </h3>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshmirajVagu&show_icons=true&theme=radical" alt="Lakshmiraj's GitHub Stats" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmirajvagu&show_icons=true&theme=radical" alt="Lakshmiraj's GitHub Stats" width="48%" />  
  
 </p>
 
