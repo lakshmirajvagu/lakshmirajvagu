@@ -19,7 +19,7 @@
 
 ## 🏆 Achievements
 
-- 🔹 **LeetCode** Contest Rating: **1723**
+- 🔹 **LeetCode** Contest Rating: **1735**
 - 🔹 **GeeksforGeeks**: **4⭐ Coder** (Rating: **1846**)
 - 🔹 **CodeChef**: **2⭐ Coder**
 - 🧠 **DSA Lead** at ASCI (Association of Computer Intellects), GVPCE
@@ -43,7 +43,7 @@ An innovative platform that provides users with insights into their carbon footp
 A placement management system designed for college T&P officers, college management, and students. It facilitates the management of job applications, placement drives, student profiles, and recruiter interactions.  
 **Tech Stack**: MERN Stack (React, Express, MongoDB, Node.js)
 
-🔗 **Check out all my projects [here](https://github.com/your-github-username?tab=repositories)**
+🔗 **Check out all my projects [here](https://github.com/lakshmirajvagu?tab=repositories)**
 
 
 ## 👨‍💻 Tech Community & Events  
